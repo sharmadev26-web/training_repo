@@ -1,0 +1,8 @@
+.item_row{
+    padding: 10px 10px 10px 10px;
+    background: #82267a;
+    margin: 10px;
+    height: 6rem;
+    border: 1px solid #82267a;
+    border-radius: 5px;
+}

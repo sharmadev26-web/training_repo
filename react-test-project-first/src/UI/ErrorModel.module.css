@@ -1,0 +1,37 @@
+.error_container{
+    width: 50%;
+    margin: auto;
+    background: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 20%;
+}
+.error_header{
+    border-bottom: 1px solid;
+    background: #e20d4c;
+    border: 1px solid #fff;
+    padding: 10px;
+    color: #fff;
+}
+.error_content{
+    background: #eee;
+    height: 100px;
+    padding: 10px;
+}
+.error_footer{
+    background: #7c0f25;
+    color: #fff;
+    padding: 10px;
+}
+.error_backdrop{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: auto;
+    background: black;
+    z-index: 0;
+    opacity: .2;
+}
