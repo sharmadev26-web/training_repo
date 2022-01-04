@@ -1,0 +1,30 @@
+.expense_form{
+    height: auto;
+    border: 1px solid #708f17;
+    border-radius: 4px;
+    margin: 10px;
+    background: #708f17;
+    padding: 10px;
+}
+.expense_form_group_item{
+    text-align: left;
+    margin: 20px 0px;
+}
+.expense_form_group_item label{
+    margin-right:10px;
+}
+.expense_form_group_item input {
+    height: 30px;
+}
+.expense_form_group_button{
+    text-align: left;
+}
+.expense_form_group_button input {
+    width: 100px;
+    height: 45px;
+    background: #07f21c;
+    border: 1px solid #07f21c;
+}
+.expense_form_group_button input:last-child{
+    margin-left:10px;
+}

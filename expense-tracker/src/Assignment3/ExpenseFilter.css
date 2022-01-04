@@ -1,0 +1,19 @@
+.filter-conatiner{
+    background: #708f17;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #708f17;
+    border-radius: 5px;
+    height: 30px;
+}
+.filter-conatiner p{
+    color: #fff;
+    font-size: 20px;
+    float: left;
+    margin: 0;
+}
+.filter-dropdown-conatiner select{
+    width: 150px;
+    height:30px;
+    float:right;
+}

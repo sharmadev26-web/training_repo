@@ -1,0 +1,26 @@
+
+.item_date{
+    float: left;
+    background: #c9cd47;
+    padding: 20px;
+    border: 1px solid #c9cd47;
+    border-radius: 4px;
+}
+.item_title{
+    margin-left: 20px;
+    line-height: 6rem;
+    font-size: 25px;
+    color: #edff00;
+    float:left;
+}
+.item_amount{
+    float: right;
+    border: 1px solid;
+    width: 100px;
+    height: 35px;
+    line-height: 35px;
+    border-radius: 10px;
+    background: #3aee11;
+    color: #fff;
+    margin-top: 2rem;
+}
