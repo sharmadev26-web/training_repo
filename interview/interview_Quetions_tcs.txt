@@ -1,0 +1,41 @@
+redux life cycle
+redux where we keep API in which lifecycle
+how to achieve lazy loading
+context api vs redux
+npm module testing using jest
+how to secure routes from anybody access?
+
+ecma 7 -8 why we not used
+backbone/reaact why go with react
+bootstrap - anything you did custom change or inbuild, pagination implement
+
+
+testing jest
+web socket
+devops/ci/cd 
+agile work have you done
+sprint time
+have you written component reusable code 
+axios
+
+
+have you done team leading activities
+cross browser UI challenges
+is new ecma feature supported by all browser
+react version
+why you use react routing
+
+in project
+how you display data in table
+d3.js responsive in nature?
+how you deploy application
+if any issue encounter while deployment how you know?
+
+
+
+
+
+
+
+
+

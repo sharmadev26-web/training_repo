@@ -1,0 +1,39 @@
+Node
+
+- is node single threaded why
+- what is REPL
+- how to install third party package
+- streams in node
+- event loop
+
+
+HTML
+
+- what are the major API used in html
+- geolocation api
+- graphics in html
+
+CSS
+
+- pseudo classes and elements
+- box model
+- gradient in css
+- 
+
+javascript
+
+- promises
+- await any diff
+- event bubbling event, dispatching and delegation
+
+
+
+
+
+
+
+
+
+
+
+

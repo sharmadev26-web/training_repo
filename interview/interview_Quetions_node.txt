@@ -1,0 +1,9 @@
+Interview Questions
+
+1. node is run time env like browser not a language works on v8 engine
+2. asynchronous - non blocking programming node is bydefault
+3. synchronous - blocking programming
+4. how node works?
+
+
+

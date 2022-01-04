@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<style>
+		div.scope, div.value-reference{
+			border:4px solid #ccc;
+			height:auto;
+			padding:10px;
+		}
+		div.scope img{
+			width:300px;
+			height: 300px;
+			border:1px solid #ddd;
+		}
+		.module-pattern{
+			width:500px !important;
+		}
+		.lexical-scope{
+			width:700px !important;
+		}
+		.call-apply-bind{
+			width:700px !important;
+			height:700px !important;
+		}
+		div.value-reference img{
+			border:1px solid #ddd;
+			width:700px !important;
+			height:700px !important;
+		}
+		div.hoisting img{
+			border:1px solid #ddd;
+			width:700px !important;
+			height:700px !important;
+		}
+	</style>
+</head>
+<body>
+	<h1>Javascript Concepts</h1>
+
+	<div><h3>1. Scope - Global, Local, Block</h3></div>
+
+
+	<div class="scope">
+		<h4>Scope - Exapmle</h4>
+		<p>scope determines the visibility of variables and other resources in areas of your code.</p>
+		<img src="./images/scope.png">
+
+		<div>
+			<h4> Important Terms in the world of scope</h4>
+		</div>
+		<div>
+			<div>
+				<b><b>Lexical Scope and Closure example</b></p>
+				<img class="lexical-scope" src="./images/lexicalscope.png">
+				
+			</div>
+			<div>
+				<p><b>Module Pattern and Self Invked Function example</b></p>
+				<img class="module-pattern" src="./images/moudlePattern.png">
+				
+			</div>
+			<div>
+				<p><b>Call, Apply and bind example</b></p>
+				<img class="call-apply-bind" src="./images/call_apply_bind.png">
+				
+			</div>
+		</div>
+	</div>
+
+	<div><h3>2. Value vs Reference</h3></div>
+
+	<div class="value-reference">
+
+		<h4>Value vs Reference - Exapmle</h4>
+		<p>JavaScript has 5 data types that are copied by value: Boolean, null, undefined, String, and Number. We’ll call these primitive types. JavaScript has 3 data types that are copied by having their reference copied: Array, Function, and Object. These are all technically Objects, so we’ll refer to them collectively as Objects.</p>
+		<img src="./images/value_vs_ref.png">
+		
+	</div>
+
+	<div><h3>3. Hoisting</h3></div>
+
+	<div class="hoisting">
+
+		<h4>Variable and function hoisting - Exapmle</h4>
+		<p>All variable declarations are hoisted (lifted and declared) to the top of the function, if defined in a function, or the top of the global context, if outside a function.</p>
+		<img src="./images/hoisting.png">
+		
+	</div>
+
+</body>
+</html>

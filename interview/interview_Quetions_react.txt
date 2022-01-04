@@ -1,0 +1,44 @@
+Interview Questions
+
+1. What is authentication mechanism
+2. Local Storgae and cookie diff - token stored?
+3. classes and interface diff
+4. hooks?
+5. react life cycle
+6. Virtual dom
+7. what is  benefits of react
+8. HOC - product list with search and userList with search
+9. typescript
+10. Pure component
+11. React.memo checks for the previous props and current props to evaluate component,
+12. useCallback(()=>{},[]) - create a single creation of function with changed dependency,
+13. useMemo(()=>{},[]) - memorise some logic which is performance intensive and will not change very often
+
+10. webpack purpose - bundle your application to the static modules by creating the dependency graph.
+11. babel purpose - transpiler - convert latest ecma code to older version
+12. sigleton
+13. ContextAPI
+14. Redux used?
+15. real time data in each second, way to achieve
+16. hooks?
+17. how to bundle the modules and benefits - webpack
+
+
+
+
+design Patterns:
+
+1. Faccade
+2. Singleton
+3. Factory
+4. Module Pattren
+5. constructor pattern
+6. observer
+7. mediator
+8. decorator
+
+
+
+
+
+
