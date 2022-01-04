@@ -1,0 +1,14 @@
+git clone
+git add .
+git commit -m "some message"
+git push
+git status
+git log
+
+
+clone with SSH -> generate a key pair - add the pub key in github and clone
+
+git Editors -
+
+github desktop
+vs code
