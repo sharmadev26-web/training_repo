@@ -1,0 +1,30 @@
+.app-row{
+    width:auto;
+    border:1px solid #eee;
+    border-radius:2px;
+    margin:30px;
+    padding:10px;
+    background-color: #3d3f3e;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+
+.app-row>.app-row-amount{
+    flex: 0 0 10%;
+}
+.app-row>.app-row-text{
+    flex: 0 0 60%;
+}
+.app-row>.app-row-date{
+    flex: 0 0 20%;
+}
+.app-row-text{
+    font-size: 20px;
+    font-weight: bold;
+    color:#fff;
+}
+.app-row-amount{
+    text-align: center;
+}

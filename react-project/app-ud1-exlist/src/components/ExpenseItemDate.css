@@ -1,0 +1,10 @@
+.expense-date-container{
+    max-width:100px;
+    background: #000;
+    border:2px solid #fff;
+    border-radius: 10px;
+    font-size: 20px;
+    color:#fff;
+    padding:10px;
+    text-align: center;
+}

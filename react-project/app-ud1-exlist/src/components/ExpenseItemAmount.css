@@ -1,0 +1,10 @@
+.expense-amount{
+   width: 100px;
+   border:2px solid #FFF;
+   border-radius: 5px;
+   background: rgb(175, 72, 144);
+   color:#fff;
+   padding:10px;
+   font-size: 20px;
+   float:right;
+}
